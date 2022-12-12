@@ -1,0 +1,29 @@
+h1 { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-style: italic; 
+    color: red;
+    }
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold; 
+    color: mediumseagreen;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: italic; 
+    color: gold;
+}
+
+body {
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-adam-sandler-movies-1647436167.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*);
+}
+
+div {
+    width: 300px;
+    border: 15px solid rgb(109, 200, 109);
+    padding: 50px;
+    margin: 20px;
+    background-color: azure;
+    text-align: center;
+  }
